@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="072b1a0e-e21d-4570-b54e-4e54343b0891" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../sql-airplane-lab/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sql-airplane-lab/airlines.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sql-airplane-lab/airports.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sql-airplane-lab/flights.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sql-airplane-lab/routes.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sql-airplane-lab/solution.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sql-intro-lab/starter-code/clues.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../sql-intro-lab/starter-code/clues.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init_db.sh" beforeDir="false" afterPath="$PROJECT_DIR$/init_db.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_queries.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run_queries.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sql-joins-lesson/starter-code/insert_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../sql-joins-lesson/starter-code/insert_data.sql" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1S1fw3f2wmpUgcvTmqmZu24DqmI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="072b1a0e-e21d-4570-b54e-4e54343b0891" name="Default Changelist" comment="" />
+      <created>1570736258570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570736258570</updated>
+      <workItem from="1570736264170" duration="2191000" />
+      <workItem from="1570740418884" duration="413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
